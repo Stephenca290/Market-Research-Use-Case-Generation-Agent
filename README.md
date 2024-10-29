@@ -42,10 +42,6 @@ python main.py
 ```
 The generated report will be outputted as a markdown file.
 
-## Project Files
- main.py: Core script to set up agents and tasks, and to generate the use cases and final report.  
- README.md: Project documentation.  
- Demo video  
 
 
 
