@@ -42,17 +42,21 @@ python main.py
 ```
 The generated report will be outputted as a markdown file.
 
-Project Files
+## Project Files
 main.py: Core script to set up agents and tasks, and to generate the use cases and final report.
 README.md: Project documentation.
-Agents
-Industry & Company Research Agent: Researches the industry and segments the company based on offerings and strategic focus.
-Market Standards & Use Case Generation Agent: Identifies AI and ML use cases aligned with industry trends.
-Resource Collection Agent: Collects relevant datasets and resource links.
-Report Generation Agent: Prepares a final proposal report with use cases and resource links.
-Demo
+Demo video
+## Agents
+### Industry & Company Research Agent
+Researches the industry and segments the company based on offerings and strategic focus.
+### Market Standards & Use Case Generation Agent
+Identifies AI and ML use cases aligned with industry trends.
+### Resource Collection Agent
+Collects relevant datasets and resource links.
+### Report Generation Agent
+Prepares a final proposal report with use cases and resource links.
+# Demo
 A demo video explaining the architecture flowchart and generated output can be found here: [Demo Video Link].
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
 
